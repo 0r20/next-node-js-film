@@ -1,0 +1,56 @@
+[
+  {
+    "id": "0",
+    "name": "film0",
+    "description": "cool film",
+    "image": "http://placehold.it/700x350",
+    "price": "14.99",
+    "genre": "drama",
+    "rating": 2
+  },
+  {
+    "id": "1",
+    "name": "Лучший боевик года",
+    "description": "cool film",
+    "image": "http://placehold.it/600x350",
+    "price": "9.99",
+    "genre": "drama,action",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "name": "film2",
+    "description": "cool film",
+    "image": "http://placehold.it/500x350",
+    "price": "120",
+    "genre": "adventure,historical",
+    "rating": 2.9
+  },
+  {
+    "id": "3",
+    "name": "film3",
+    "description": "cool film",
+    "image": "http://placehold.it/900x350",
+    "price": "79.99",
+    "genre": "action",
+    "rating": 4.8
+  },
+  {
+    "id": "4",
+    "name": "film4",
+    "description": "cool film",
+    "image": "http://placehold.it/700x550",
+    "price": "65",
+    "genre": "historical,drama,adventure",
+    "rating": 4.3
+  },
+  {
+    "id": "5",
+    "name": "film5",
+    "description": "cool film",
+    "image": "http://placehold.it/900x550",
+    "price": "29.99",
+    "genre": "adventure",
+    "rating": 3.5
+  }
+]

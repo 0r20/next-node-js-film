@@ -1,0 +1,18 @@
+.base-page {
+    padding-top: 80px;
+    flex: 1 0 auto;
+}
+footer {
+    flex: 0 0 auto;
+}
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+#__next {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
